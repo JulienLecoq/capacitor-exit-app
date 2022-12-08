@@ -1,0 +1,25 @@
+{
+  "api": {
+    "name": "ExitAppPlugin",
+    "slug": "exitappplugin",
+    "docs": "",
+    "tags": [],
+    "methods": [
+      {
+        "name": "killApp",
+        "signature": "() => Promise<void>",
+        "parameters": [],
+        "returns": "Promise<void>",
+        "tags": [],
+        "docs": "",
+        "complexTypes": [],
+        "slug": "killapp"
+      }
+    ],
+    "properties": []
+  },
+  "interfaces": [],
+  "enums": [],
+  "typeAliases": [],
+  "pluginConfigs": []
+}
